@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CNS\**" />
+    <Compile Remove="Session\**" />
+    <EmbeddedResource Remove="CNS\**" />
+    <EmbeddedResource Remove="Session\**" />
+    <None Remove="CNS\**" />
+    <None Remove="Session\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECX.BL\ECX.BL.csproj" />
+  </ItemGroup>
+
+</Project>

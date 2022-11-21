@@ -1,0 +1,12 @@
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\bin\Debug\net5.0\ECX.DATA.deps.json
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\bin\Debug\net5.0\ECX.DATA.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\bin\Debug\net5.0\ref\ECX.DATA.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\bin\Debug\net5.0\ECX.DATA.pdb
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.AssemblyInfoInputs.cache
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.AssemblyInfo.cs
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.csproj.CoreCompileInputs.cache
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ref\ECX.DATA.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.pdb
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DATA\obj\Debug\net5.0\ECX.DATA.csproj.AssemblyReference.cache

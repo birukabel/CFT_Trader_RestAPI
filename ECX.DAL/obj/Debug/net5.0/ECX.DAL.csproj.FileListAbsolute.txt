@@ -1,0 +1,17 @@
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.csproj.AssemblyReference.cache
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.AssemblyInfoInputs.cache
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.AssemblyInfo.cs
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.DAL.deps.json
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.DAL.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ref\ECX.DAL.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.DAL.pdb
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.BL.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.DATA.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.BL.pdb
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\bin\Debug\net5.0\ECX.DATA.pdb
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.csproj.CopyComplete
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ref\ECX.DAL.dll
+E:\Projects\ECX.CFT\Trader.API\CFTTraderAPI\ECX.DAL\obj\Debug\net5.0\ECX.DAL.pdb

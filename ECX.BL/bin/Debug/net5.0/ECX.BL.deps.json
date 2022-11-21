@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ECX.BL/1.0.0": {
+        "dependencies": {
+          "ECX.DATA": "1.0.0"
+        },
+        "runtime": {
+          "ECX.BL.dll": {}
+        }
+      },
+      "ECX.DATA/1.0.0": {
+        "runtime": {
+          "ECX.DATA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECX.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECX.DATA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
